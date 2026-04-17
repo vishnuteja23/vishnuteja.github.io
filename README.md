@@ -1,2 +1,8 @@
-# vishnuteja.github.io
-Portfolio Website 
+# Vishnu Teja Portfolio
+
+This is my personal portfolio website showcasing:
+- Projects (adding soon)
+- Certifications
+- Skills
+
+🌐 Live: https://
